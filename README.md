@@ -8,10 +8,10 @@ The goals / steps of this project are the following:
 
 [image1]: ./Output/Dataset1.png 
 [image2]: ./Output/Dataset2.png 
-[image3]: ./Output/Py_RMSE.png
-[image4]: ./Output/Vx_RMSE.png
-[image5]: ./Output/Vy_RMSE.png
-
+[image3]: ./Output/RADAR_NIS_Data _Set_1.png
+[image4]: ./Output/LIDAR_NIS_Data_Set_1.png
+[image5]: ./Output/RADAR_NIS_Data _Set_2.png
+[image6]: ./Output/LIDAR_NIS_Data_Set_2.png
 
 ---
 ### Writeup / README
@@ -43,12 +43,19 @@ Unscented Kalman Filter was able to estimate the position of the vehicle.
 
 - NIS for each scan is printed in a text file. Using the printed data graphs were ploted to understand the trend of the RMSE for each parameter. 
 
-
-![alt text][image2]
+RADAR Data Set 1
 
 ![alt text][image3]
 
+LIDAR Data Set 1
+
 ![alt text][image4]
+
+RADAR Data Set 2
+
+![alt text][image5]
+
+LIDAR Data Set 2
 
 ![alt text][image5]
 
