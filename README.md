@@ -8,7 +8,7 @@ The goals / steps of this project are the following:
 
 [image1]: ./Output/Dataset1.png 
 [image2]: ./Output/Dataset2.png 
-[image3]: ./Output/RADAR_NIS_Data _Set_1.png
+[image3]: ./Output/RADAR_NIS_Data_Set_1.png
 [image4]: ./Output/LIDAR_NIS_Data_Set_1.png
 [image5]: ./Output/RADAR_NIS_Data_Set_2.png
 [image6]: ./Output/LIDAR_NIS_Data_Set_2.png
